@@ -201,7 +201,7 @@ module ::OmniAuth
           email: data_source["email"],
           first_name: data_source["given_name"],
           last_name: data_source["family_name"],
-          nickname: data_source["preferred_username"],
+          # nickname: data_source["preferred_username"],
           image: data_source["picture"],
         )
       end
