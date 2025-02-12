@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-# name: discourse-openid-connect
-# about: Allows users to login to your forum using an OpenID Connect provider as authentication.
+# name: discourse-openid-connect-cuc
+# about: Allows users to login to your forum using an OpenID Connect provider as authentication for Cuenta Única.
 # meta_topic_id: 103632
-# version: 1.0
+# version: 1.1
 # authors: David Taylor
-# url: https://github.com/discourse/discourse-openid-connect
+# url: https://github.com/ogticrd/discourse-openid-connect-cuc
 
 enabled_site_setting :openid_connect_enabled
 
